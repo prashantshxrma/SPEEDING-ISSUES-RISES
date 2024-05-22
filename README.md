@@ -1,6 +1,6 @@
 # Car Selling Niche Product Website
 
-The live site link: https://car-selling-website-336db.web.app/
+The live site link: https://664ae5cea4f26b56adbcf42f--glistening-salmiakki-dfd759.netlify.app/
 
 A niche website is a website that caters to a small segment of a large market by focusing on a common, specific interest. My website, Car Selling Website, is a niche website.
 
